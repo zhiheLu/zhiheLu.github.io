@@ -1,5 +1,6 @@
 ## Zhihe Lu (卢治合)
-    
+![](https://github.com/zhiheLu/zhiheLu.github.io/blob/main/photo.jpg)
+
 ### About Me
 I am now a PhD student at the University of Surrey under the supervision of Prof. [Tao Xiang](https://www.surrey.ac.uk/people/tao-xiang) and Prof. [Yi-Zhe Song](https://www.surrey.ac.uk/people/yi-zhe-song). 
 I finished my Master's degree at the Institute of Automation, Chinese Academy of Sciences, supervised by Prof. [Ran He](https://rhe-web.github.io/).
