@@ -1,2 +1,2 @@
-# Welcome, this is Zhihe's homepage.
+# Welcome Zhihe's homepage.
 
