@@ -5,6 +5,8 @@ I am now a PhD student at the University of Surrey under the supervision of Prof
 I finished my Master's degree at the Institute of Automation, Chinese Academy of Sciences, supervised by Prof. [Ran He](https://rhe-web.github.io/).
 My research interests are Domain Adaptation, Few-shot Learning and Generative Models.
 
+### Contact
+- Email: zhihe.lu [at] surrey.ac.uk
 
 ### Publications
 1. Zhihe Lu, Tanhao Hu, Lingxiao Song, Zhaoxiang Zhang, Ran He. Conditional expression synthesis with face parsing transformation. ACM MM 2018. 
