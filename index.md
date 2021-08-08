@@ -1,10 +1,11 @@
 ## Zhihe Lu (卢治合)
-<a href="url"><img src="https://github.com/zhiheLu/zhiheLu.github.io/blob/main/photo.jpg" align="left" height="200" width="155" ></a>
+<a href="url"><img src="https://github.com/zhiheLu/zhiheLu.github.io/blob/main/photo.jpg" align="left" height="150" width="116" ></a>
 
 ### About Me
 I am now a PhD student at the University of Surrey under the supervision of Prof. [Tao Xiang](https://www.surrey.ac.uk/people/tao-xiang) and Prof. [Yi-Zhe Song](https://www.surrey.ac.uk/people/yi-zhe-song). 
 I finished my Master's degree at the Institute of Automation, Chinese Academy of Sciences, supervised by Prof. [Ran He](https://rhe-web.github.io/).
 My research interests are Domain Adaptation, Few-shot Learning and Generative Models.
+
 
 ### Publications
 1. Zhihe Lu, Tanhao Hu, Lingxiao Song, Zhaoxiang Zhang, Ran He. Conditional expression synthesis with face parsing transformation. ACM MM 2018. 
