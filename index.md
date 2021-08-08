@@ -1,5 +1,4 @@
 ## Zhihe Lu (卢治合)
-<img src="https://github.com/zhiheLu/zhiheLu.github.io/blob/main/photo.jpg" align="left" height="150" width="116" ></a>
 
 ### About Me
 I am now a PhD student at the University of Surrey under the supervision of Prof. [Tao Xiang](https://www.surrey.ac.uk/people/tao-xiang) and Prof. [Yi-Zhe Song](https://www.surrey.ac.uk/people/yi-zhe-song). 
