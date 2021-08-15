@@ -5,8 +5,9 @@ I am now a PhD student at the University of Surrey under the supervision of Prof
 I finished my Master's degree at the Institute of Automation, Chinese Academy of Sciences, supervised by Prof. [Ran He](https://rhe-web.github.io/).
 My research interests are Domain Adaptation, Few-shot Learning and Generative Models.
 
-### Contact
+### Contact and CV
 - Email: zhihe.lu [at] surrey.ac.uk
+- My resume: [CV](https://github.com/zhiheLu/zhiheLu.github.io/blob/main/resume/My_Resume.pdf)
 
 ### Publications
 1. Zhihe Lu, Tanhao Hu, Lingxiao Song, Zhaoxiang Zhang, Ran He. Conditional expression synthesis with face parsing transformation. ACM MM 2018. 
@@ -16,4 +17,4 @@ My research interests are Domain Adaptation, Few-shot Learning and Generative Mo
 3. Zhihe Lu, Yongxin Yang, Xiatian Zhu, Cong Liu, Yi-Zhe Song, Tao Xiang. Stochastic classifiers for unsupervised domain adaptation. CVPR 2020. 
     - [\[Paper\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lu_Stochastic_Classifiers_for_Unsupervised_Domain_Adaptation_CVPR_2020_paper.pdf) [\[Code\]](https://github.com/zhiheLu/STAR_Stochastic_Classifiers_for_UDA)
 4. Zhihe Lu, Sen He, Xiatian Zhu, Li Zhang, Yi-Zhe Song, Tao Xiang. Simpler is Better: Few-shot Semantic Segmentation with Classifier Weight Transformer. ICCV 2021. 
-    - [\[Code\]](https://github.com/zhiheLu/CWT-for-FSS)
+    - [\[Paper\]](https://arxiv.org/abs/2108.03032) [\[Code\]](https://github.com/zhiheLu/CWT-for-FSS)
