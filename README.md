@@ -1,1 +1,1 @@
-Welcome to Zhihe's homepage.
+# [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
